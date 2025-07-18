@@ -28,11 +28,11 @@ COPY . /app/
 WORKDIR /app
 
 # Start Odoo using environment variables
-CMD ["python3", "odoo-bin",
-     "--db_host", "${DB_HOST}",
-     "--db_port", "${DB_PORT}",
-     "--db_user", "${DB_USER}",
-     "--db_password", "${DB_PASSWORD}",
-     "--addons-path", "addons,odoo/addons",
-     "--log-level", "info",
-     "-c", "/app/odoo.conf"]
+CMD python3 odoo-bin \
+    --db_host=$DB_HOST \
+    --db_port=$DB_PORT \
+    --db_user=$DB_USER \
+    --db_password=$DB_PASSWORD \
+    --addons-path=addons,odoo/addons \
+    --log-level=info \
+    -c /app/odoo.conf
