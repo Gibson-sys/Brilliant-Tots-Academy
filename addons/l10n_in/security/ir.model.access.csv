@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_port_code_user,port.code.user,model_l10n_in_port_code,base.group_user,1,0,0,0
-access_port_code_account_manager,port.code.user,model_l10n_in_port_code,account.group_account_manager,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:f890672eac530f982315f2d34f1bd1504eee4d397b7a9dad04557576fcde86f5
+size 272

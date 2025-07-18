@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_homework_location_wizard,homework.location.wizard,model_homework_location_wizard,base.group_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdef7c1e829f50e2c4c5d679142e7f32b6fe3dfddc806d033c2541a08b8ec563
+size 189

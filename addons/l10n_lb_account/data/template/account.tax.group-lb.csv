@@ -1,4 +1,3 @@
-"id","name","country_id","tax_receivable_account_id","tax_payable_account_id","name@ar_001"
-"lb_tax_vat_11","VAT 11%","base.lb","lb_account_442201","lb_account_442001","ضريبة بنسبة %11"
-"lb_tax_vat_0","VAT 0%","base.lb","lb_account_442201","lb_account_442001","ضريبة بنسبة %0"
-"lb_tax_vat_exempt","VAT Exempt","base.lb","lb_account_442201","lb_account_442001","معفى من ضريبة القيمة المضافة"
+version https://git-lfs.github.com/spec/v1
+oid sha256:41b895711975e54381d80be180f519581e90ca0e1d95806061a7a57711a355de
+size 435

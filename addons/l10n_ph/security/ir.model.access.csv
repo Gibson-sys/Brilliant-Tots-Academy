@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-generate_2307_wizard,access_generate_2307_wizard,model_l10n_ph_2307_wizard,account.group_account_invoice,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d371647d1f149987b45d163a00cfef21b04f8a24a4a6174fce786752153990
+size 190

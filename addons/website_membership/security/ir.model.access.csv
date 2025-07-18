@@ -1,4 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_membership_product_product_public,event.product.product.public,product.model_product_product,base.group_public,1,0,0,0
-access_membership_membership_line_public,membership.membership_line,model_membership_membership_line,base.group_public,1,0,0,0
-access_membership_membership_line_portal,membership.membership_line,model_membership_membership_line,base.group_portal,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:21505f3de6d72efd9734b041230a9ed7933cb6e6366cc34491f9658be6c95a35
+size 457

@@ -1,4 +1,3 @@
-"id","name","country_id","tax_payable_account_id","tax_receivable_account_id","name@nl","name@de"
-"tax_group_0","VAT 0%","base.nl","pay","pay","BTW 0%","MWST. 0%"
-"tax_group_9","VAT 9%","base.nl","pay","pay","BTW 9%","MWST. 9%"
-"tax_group_21","VAT 21%","base.nl","pay","pay","BTW 21%","MWST. 21%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd6da04590ed7382e93e7cec2fb6fe5e6947e9db4826b13bc823892edaa0d65
+size 297

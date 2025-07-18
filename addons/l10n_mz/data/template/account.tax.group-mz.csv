@@ -1,4 +1,3 @@
-"id","name","country_id","tax_receivable_account_id","tax_payable_account_id"
-"tax_group_vat_0","VAT 0%","base.mz","l10n_mz_account_4438","l10n_mz_account_4437"
-"tax_group_vat_5","VAT 5%","base.mz","l10n_mz_account_4438","l10n_mz_account_4437"
-"tax_group_vat_16","VAT 16%","base.mz","l10n_mz_account_4438","l10n_mz_account_4437"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34b177c7aeaf41a819605b02ba674ddb1ca50734709bb28782476f397091581
+size 329

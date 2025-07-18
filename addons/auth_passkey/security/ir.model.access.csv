@@ -1,4 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-auth_passkey.access_auth_passkey_key,access_auth_passkey_key,model_auth_passkey_key,base.group_user,1,1,0,0
-auth_passkey.access_auth_passkey_key_admin,access_auth_passkey_key_admin,model_auth_passkey_key,base.group_erp_manager,1,1,0,1
-auth_passkey.access_auth_passkey_key_create,access_auth_passkey_key_create,model_auth_passkey_key_create,base.group_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:751dc218e07fc12b4e489622784e6a65efe9e6bd4769ae614c21e5fdb0507720
+size 441

@@ -1,5 +1,3 @@
-"id","sequence","name","auto_apply","vat_required","country_id","tax_ids/tax_src_id","tax_ids/tax_dest_id"
-"l10n_ph_fiscal_position_vat_registered","1","VAT Registered","1","1","base.ph","l10n_ph_tax_sale_vat_exempt","l10n_ph_tax_sale_vat_12"
-"","","","","","","l10n_ph_tax_purchase_vat_exempt","l10n_ph_tax_purchase_vat_12"
-"l10n_ph_fiscal_position_vat_exempt","2","VAT Exempt","1","","base.ph","l10n_ph_tax_sale_vat_12","l10n_ph_tax_sale_vat_exempt"
-"","","","","","","l10n_ph_tax_purchase_vat_12","l10n_ph_tax_purchase_vat_exempt"
+version https://git-lfs.github.com/spec/v1
+oid sha256:62178a9c20bca29651e4079e14294411b0cc777b2e0656204a8f8b6d7801da8e
+size 534

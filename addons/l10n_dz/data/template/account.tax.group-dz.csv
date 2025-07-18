@@ -1,4 +1,3 @@
-"id","country_id","name","name@fr",
-"l10n_dz_tax_group_vat_0","base.dz","VAT 0%","TVA 0%",
-"l10n_dz_tax_group_vat_9","base.dz","VAT 9%","TVA 9%",
-"l10n_dz_tax_group_vat_19","base.dz","VAT 19%","TVA 19%",
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f9213dfd00354eb7432e5abb1a04fdf6867724878fa42033c5b9aefa118ee8c
+size 204

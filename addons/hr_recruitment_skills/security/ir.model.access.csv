@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-hr_recruitment_skills.access_hr_candidate_skill_interviewer,access_hr_candidate_skill_interviewer,hr_recruitment_skills.model_hr_candidate_skill,hr_recruitment.group_hr_recruitment_interviewer,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:53732bff5d3ad69da015000576f33cb78d18bbcd0ddfc22da9533e81b725962d
+size 278

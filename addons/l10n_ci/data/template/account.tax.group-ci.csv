@@ -1,4 +1,3 @@
-"id","name","name@fr","tax_payable_account_id","tax_receivable_account_id"
-"tax_group_0","VAT 0%","T.V.A. 0%","pcg_4431","pcg_4452"
-"tax_group_9","VAT 9%","T.V.A. 9%","pcg_4431","pcg_4452"
-"tax_group_18","VAT 18%","T.V.A. 18%","pcg_4431","pcg_4452"
+version https://git-lfs.github.com/spec/v1
+oid sha256:11c4c2eb184b41734baad230d3711981a4f8478b54775c5ab46b9fcc9ef5b293
+size 249

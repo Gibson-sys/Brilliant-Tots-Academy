@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_crm_quotation_partner,access.crm.quotation.partner,model_crm_quotation_partner,sales_team.group_sale_salesman,1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f74f1721b42768e5a67b9e270be096bc6ac7a8f734299c3c2c9d3afb64b9dcd2
+size 202

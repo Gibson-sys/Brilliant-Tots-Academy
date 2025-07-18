@@ -1,2 +1,3 @@
-id,name,country_id,tax_payable_account_id,tax_receivable_account_id
-consumption_taxes,Consumption Taxes,base.ug,"411723","3529"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d24d347482ae05e8917aa0b47241451729284fb50390f7e28383dfc63538a3eb
+size 128

@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_sale_order_line_project_manager,sale.order.line.project.manager,sale.model_sale_order_line,project.group_project_manager,1,0,0,0
-access_sale_order_project_manager,sale.order.project.manager,sale.model_sale_order,project.group_project_manager,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:025b2ed78d29a52c8924c2c833fc26249335d0619e6fbfbe4f963d3f9187e806
+size 334

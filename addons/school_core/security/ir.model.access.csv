@@ -1,7 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_school_student,school.student,model_school_student,,1,1,1,1
-access_school_class,school.class,model_school_class,,1,1,1,1
-access_school_exam,school.exam,model_school_exam,,1,1,1,1
-access_school_attendance,school.attendance,model_school_attendance,,1,1,1,1
-access_school_report,school.report,model_school_report,,1,1,1,1
-access_school_homework,school.homework,model_school_homework,,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:98be53a99b953b83f2a75c378c3dd50ec2624d48008f96d6789df7c220269ad8
+size 473

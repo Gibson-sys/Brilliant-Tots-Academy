@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_website_visitor_salesman,access_website_visitor_salesman,model_website_visitor,sales_team.group_sale_salesman,1,0,0,0
-access_website_track_salesman,access_website_track_salesman,website.model_website_track,sales_team.group_sale_salesman,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:96d6f86938e807e29512b0db252a233e5f5b715190ae34928b12df7d6131ebf0
+size 329

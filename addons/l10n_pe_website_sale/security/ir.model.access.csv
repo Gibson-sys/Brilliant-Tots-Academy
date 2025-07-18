@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_city_public,res_city_group_public,base_address_extended.model_res_city,base.group_public,1,0,0,0
-access_city_portal,res_city_group_portal,base_address_extended.model_res_city,base.group_portal,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:00499f7849db890b58569e17cfc461b69cf146a1c3b17c19f39315708a588461
+size 285

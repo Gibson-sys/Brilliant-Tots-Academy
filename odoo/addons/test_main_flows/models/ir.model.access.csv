@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_model_multicompany,access_model_multicompany,model_test_model_multicompany,base.group_user,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac4d16ef80b556fa96a1e467998d29924014e63e2f8feeb67ba05399d01d30b1
+size 199

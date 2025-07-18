@@ -1,2 +1,3 @@
-"id","name","country_id","tax_receivable_account_id","tax_payable_account_id","name@ko_KR"
-"tax_group_vat","VAT","base.kr","l10n_kr_111606","l10n_kr_216004","부가세"
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d33b197e7fae4e4daa3b50bd4c94cf4ff7e4d5d58974672cdbcb0b88da4aaa5
+size 169

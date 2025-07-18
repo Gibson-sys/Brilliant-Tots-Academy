@@ -1,3 +1,3 @@
-"id","country_id","name","name@id"
-"default_tax_group","base.id","Taxes","Pajak"
-"l10n_id_tax_group_luxury_goods","base.id","Luxury Good Taxes (ID)","Pajak Barang Mewah (ID)"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce94dcf4b5518bfd3075645ab16e925462b610446b1695fdb3a47f5509b78ad6
+size 175

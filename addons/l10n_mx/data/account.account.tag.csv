@@ -1,3 +1,3 @@
-id,name,applicability,country_id/id,color
-tag_debit_balance_account,Debit Balance Account,accounts,base.mx,0
-tag_credit_balance_account,Credit Balance Account,accounts,base.mx,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc8d299bfd9e246a5481135f85b3281be1518ece520adc52e9439acdde6e846b
+size 178

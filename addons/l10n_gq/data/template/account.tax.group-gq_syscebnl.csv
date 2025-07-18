@@ -1,5 +1,3 @@
-"id","name","name@es","tax_payable_account_id","tax_receivable_account_id"
-"syscebnl_tax_group_0","VAT 0%","I.V.A. 0%","syscebnl_443","syscebnl_445"
-"syscebnl_tax_group_6","VAT 6%","I.V.A. 6%","syscebnl_443","syscebnl_445"
-"syscebnl_tax_group_15","VAT 15%","I.V.A. 15%","syscebnl_443","syscebnl_445"
-"syscebnl_tax_group_30","VAT 30%","I.V.A. 30%","syscebnl_443","syscebnl_445"
+version https://git-lfs.github.com/spec/v1
+oid sha256:5138d63c079accf6b3ca2bc8f5d37adbbd30313ed9f91f5ba9e80cb2c79101aa
+size 377

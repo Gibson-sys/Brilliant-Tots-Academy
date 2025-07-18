@@ -1,10 +1,3 @@
-"id","l10n_hu_edi_code"
-"uom.product_uom_unit","PIECE"
-"uom.product_uom_day","DAY"
-"uom.product_uom_hour","HOUR"
-"uom.product_uom_meter","METER"
-"uom.product_uom_km","KILOMETER"
-"uom.product_uom_litre","LITER"
-"uom.product_uom_cubic_meter","CUBIC_METER"
-"uom.product_uom_kgm","KILOGRAM"
-"uom.product_uom_ton","TON"
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b91fbd87220f0efb6a8603fc8347cc4c542b853c60f674320f5444f4657e059
+size 315

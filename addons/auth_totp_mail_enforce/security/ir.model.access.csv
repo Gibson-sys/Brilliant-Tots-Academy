@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_auth_totp_rate_limit_log","access_auth_totp_rate_limit_log","model_auth_totp_rate_limit_log","base.group_user",0,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:79c3674ed961ea0d175456561818fcec2336562a2e2b65b1de957a274a05c0b6
+size 220

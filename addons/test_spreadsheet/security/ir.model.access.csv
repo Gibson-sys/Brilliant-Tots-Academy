@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_spreadsheet_test_all,access.spreadsheet.test.all,model_spreadsheet_test,base.group_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:7706eef276ca37deee908c6e4d0820dbc38d804e0f405120bdb7114a45b0e390
+size 180

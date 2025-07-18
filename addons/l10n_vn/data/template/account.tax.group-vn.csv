@@ -1,7 +1,3 @@
-"id","name","country_id","name@vi_VN"
-"tax_group_0","VAT 0%","base.vn","Thuế GTGT 0%"
-"tax_group_5","VAT 5%","base.vn","Thuế GTGT 5%"
-"tax_group_8","VAT 8%","base.vn","Thuế GTGT 8%"
-"tax_group_10","VAT 10%","base.vn","Thuế GTGT 10%"
-"tax_group_exemption","VAT EXEMPTION","base.vn","Không thuộc đối tượng chịu thuế GTGT"
-"tax_group_import","VAT IMPORT","base.vn","Thuế nhập khẩu"
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb102585cc38c7d4f7cbcbe60962ad5aa7e1a7028edcdb07ff0e03c6aeb5610
+size 406

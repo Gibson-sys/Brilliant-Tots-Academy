@@ -1,5 +1,3 @@
-"id","name","country_id","tax_payable_account_id","tax_receivable_account_id","name@ar"
-"bh_tax_group_10","VAT 10%","base.bh","bh_account_200904","bh_account_200903","10% ضريبة"
-"bh_tax_group_0","VAT 0%","base.bh","bh_account_200904","bh_account_200903","0% ضريبة"
-"bh_tax_group_exempt","VAT Exempt","base.bh","bh_account_200904","bh_account_200903","معفاة من ضريبة القيمة المضافة"
-"bh_tax_group_rc_10","Reverse Charge VAT 10%","base.bh","bh_account_200904","bh_account_200903","الرسوم العكسية لضريبة القيمة المضافة 10%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:9de8906c01a73815f9039cb2d1442c104c79c3fdec164a3d1f72680c15c1f329
+size 588

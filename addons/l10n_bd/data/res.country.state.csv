@@ -1,9 +1,3 @@
-"id","country_id/id","name","code"
-state_bd_a,base.bd,"Barishal","BD-A"
-state_bd_b,base.bd,"Chattogram","BD-B"
-state_bd_c,base.bd,"Dhaka","BD-C"
-state_bd_d,base.bd,"Khulna","BD-D"
-state_bd_e,base.bd,"Rajshahi","BD-E"
-state_bd_f,base.bd,"Rangpur","BD-F"
-state_bd_g,base.bd,"Sylhet","BD-G"
-state_bd_h,base.bd,"Mymensingh","BD-H"
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d2afe50530a2016a45e08e21b92e4ef2b42f28be763157652ce0413f8532459
+size 327

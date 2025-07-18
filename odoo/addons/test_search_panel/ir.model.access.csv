@@ -1,5 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-access_test_search_panel_source_model,access_test_search_panel_source_model,model_test_search_panel_source_model,base.group_system,1,0,0,0
-access_test_search_panel_category_target_model,access_test_search_panel_category_target_model,model_test_search_panel_category_target_model,base.group_system,1,0,0,0
-access_test_search_panel_category_target_model_no_parent_name,access_test_search_panel_category_target_model_no_parent_name,model_test_search_panel_category_target_model_no_parent_name,base.group_system,1,0,0,0
-access_test_search_panel_filter_target_model,access_test_search_panel_filter_target_model,model_test_search_panel_filter_target_model,base.group_system,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:38d978f8f041881cfd8ddb69241464077efe88cba7a5882cbef90d76fe2f5d6d
+size 769

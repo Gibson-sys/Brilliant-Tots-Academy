@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_test_convert_usered,access_test_convert_usered,model_test_convert_usered,base.group_user,1,1,1,1
-access_test_convert_test_model,access_test_convert_test_model,model_test_convert_test_model,base.group_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ba02dd2fd69432df0c83e0f4696a7d2d097288234d19b544f50722a863b1bc
+size 296

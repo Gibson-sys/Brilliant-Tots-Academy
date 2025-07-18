@@ -1,2 +1,3 @@
-id,name,country_id,tax_payable_account_id,tax_receivable_account_id
-tax_group_15,Tax 15%,base.us,tax_payable,tax_receivable
+version https://git-lfs.github.com/spec/v1
+oid sha256:3af16a0639b2372787627bf316a182bd3c548fb9c016e88590a639d13525c65f
+size 124

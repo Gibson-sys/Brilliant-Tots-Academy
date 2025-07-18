@@ -1,2 +1,3 @@
-id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
-hr_fleet_vehicle_access_right_hr_officer,hr_fleet_vehicle_access_right_hr_officer,model_fleet_vehicle,hr.group_hr_user,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:2524c4892b2d05112efbc1b8c0fd15dbb90d076fa8e0e5eef967f6d40b5d9ce9
+size 204

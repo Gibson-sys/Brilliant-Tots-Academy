@@ -1,4 +1,3 @@
-"id","name","country_id","name@es"
-"tax_group_iva_10","VAT 10%","base.uy","IVA 10%"
-"tax_group_iva_22","VAT 22%","base.uy","IVA 22%"
-"tax_group_exenton","EXEMPT","base.uy","EXENTOS"
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbfbd042743b35c8687effeb48ed182ff60af07fb379ba88c5106902e18c19b5
+size 182

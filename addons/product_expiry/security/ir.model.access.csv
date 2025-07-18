@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_expiry_picking_confirmation","access.expiry.picking.confirmation","model_expiry_picking_confirmation","stock.group_stock_user",1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4f0a9428d52932e95e0f7afbb581c44403c0dcf24a4a1dd1f02485753af944a
+size 236

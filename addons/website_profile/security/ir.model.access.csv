@@ -1,2 +1,3 @@
-id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
-gamification_karma_rank_access_restricted_editor,gamification.karma.rank.access.website.restricted_editor,gamification.model_gamification_karma_rank,website.group_website_restricted_editor,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:519b147e89312e4d7a3628ea2ce3ce1e06023a61fca597f8ca9222a655299a63
+size 274

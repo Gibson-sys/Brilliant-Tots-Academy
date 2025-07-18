@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_hr_employee_location,hr.employee.location,model_hr_employee_location,hr.group_hr_user,1,1,1,1
-access_user_employee_location,hr.employee.location,model_hr_employee_location,base.group_user,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e57a2c2843356e8a1e765def498b834dbfc747c2e49774b1abb8ab599cdc1700
+size 280

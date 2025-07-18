@@ -1,5 +1,3 @@
-"id","name","country_id","name@hr"
-"tax_group_pdv_0","PDV 0%","base.hr","PDV 0%"
-"tax_group_pdv_5","PDV 5%","base.hr","PDV 5%"
-"tax_group_pdv_13","PDV 13%","base.hr","PDV 13%"
-"tax_group_pdv_25","PDV 25%","base.hr","PDV 25%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:4abfd02fccd39e3ba72a39f1d7a4fffab303318c9533e04e79f360c08af4bcba
+size 225

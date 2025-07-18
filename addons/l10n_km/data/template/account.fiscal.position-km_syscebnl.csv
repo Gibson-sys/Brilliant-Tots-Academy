@@ -1,8 +1,3 @@
-"id","sequence","name","auto_apply","vat_required","country_id","country_group_id","tax_ids/tax_src_id","tax_ids/tax_dest_id"
-"syscebnl_fiscal_position_template_1","1","National","1","","base.km","","",""
-"syscebnl_fiscal_position_template_2","3","International","1","","","","",""
-"","","","","","","","syscebnl_tva_sale_25","syscebnl_tva_export_0"
-"","","","","","","","syscebnl_tva_sale_10","syscebnl_tva_export_0"
-"","","","","","","","syscebnl_tva_sale_7_5","syscebnl_tva_export_0"
-"","","","","","","","syscebnl_tva_sale_5","syscebnl_tva_export_0"
-"","","","","","","","syscebnl_tva_sale_3","syscebnl_tva_export_0"
+version https://git-lfs.github.com/spec/v1
+oid sha256:69030378634247a14e5c3c41120229030d80c3ddd6155363f9db6b5e05978e0c
+size 621

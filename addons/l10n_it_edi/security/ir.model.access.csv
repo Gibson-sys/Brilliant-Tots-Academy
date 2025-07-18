@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_it_ddt_manager","it_ddt manager","model_l10n_it_ddt","account.group_account_invoice",1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0d194c68e2258e04f9cc27d18fa7d36ec02dde4ceac8caf982deef033d1f52f
+size 193

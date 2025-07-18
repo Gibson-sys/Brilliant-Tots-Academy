@@ -1,5 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_event_booth_public,event.booth.public,event_booth.model_event_booth,base.group_public,1,0,0,0
-access_event_booth_portal,event.booth.public,event_booth.model_event_booth,base.group_portal,1,0,0,0
-access_event_booth_employee,event.booth.public,event_booth.model_event_booth,base.group_user,1,0,0,0
-access_event_booth_category_public,event.booth.category.public,event_booth.model_event_booth_category,base.group_public,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:17a41254aff9d600601eaa3d1fc9f2a73c01a62cc852d126a3902c4cdf3f9a37
+size 508

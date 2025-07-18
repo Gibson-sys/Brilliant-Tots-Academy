@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_crm_team_pos_manager,crm.team.pos.manager,model_crm_team,point_of_sale.group_pos_manager,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:3485100838cf25ba826d80a2ad620c7260ef817adc1ec948189e22f68173c607
+size 181

@@ -1,4 +1,3 @@
-"id","name","sequence","country_id","preceding_subtotal","tax_receivable_account_id","tax_payable_account_id"
-"tax_group_pension_fund","Fondi Pensione","0","base.it","Fondi Pensione Esclusi","2609","2609"
-"tax_group_enasarco","Enasarco","999","base.it","ENASARCO Escluso","2610","2610"
-"tax_group_withholding","Ritenute","1000","base.it","Totale Ritenute Escluse","2611","2611"
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e12a8d53f47b272f75243ecdd5a4c1ba2cad729ab4365ba0b7afcd273cf7c51
+size 378

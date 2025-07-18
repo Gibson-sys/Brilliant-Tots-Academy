@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_auth_oauth_provider,auth_oauth_provider,model_auth_oauth_provider,base.group_system,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:05501c06a1c421b4d09815b66823ac608eb8de7371767d2aa2d119597c5830f5
+size 176

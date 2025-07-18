@@ -1,2 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_sparse_fields_test","access.sparse_fields.test","model_sparse_fields_test","base.group_system",1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d23f9f18d695821fa3ac50436ecd7caaf281603db7af7cd8490fb97d6a1785
+size 204

@@ -1,4 +1,3 @@
-"id","name","country_id","name@sk"
-"tax_group_vat_23","VAT 23%","base.sk","DPH 23%"
-"tax_group_vat_19","VAT 19%","base.sk","DPH 19%"
-"tax_group_vat_0","VAT 0%","base.sk","DPH 0%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:b781078481c492443bd2b79460abaa4009ff2a837cbe6a59f8c3306e3d75b887
+size 179

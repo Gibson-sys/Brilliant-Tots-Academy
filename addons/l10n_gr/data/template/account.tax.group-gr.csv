@@ -1,8 +1,3 @@
-"id","name","country_id","tax_receivable_account_id","tax_payable_account_id","name@gr"
-"l10n_gr_tax_group_4","VAT 4%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 4%"
-"l10n_gr_tax_group_6","VAT 6%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 6%"
-"l10n_gr_tax_group_9","VAT 9%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 9%"
-"l10n_gr_tax_group_13","VAT 13%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 13%"
-"l10n_gr_tax_group_17","VAT 17%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 17%"
-"l10n_gr_tax_group_24","VAT 24%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 24%"
-"l10n_gr_tax_group_0","VAT 0%","base.gr","l10n_gr_54_02_03","l10n_gr_54_02_03","ΦΠΑ 0%"
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef0346e20e4e053056e80c740ad087f3d15c2a96da3da2ace1c0950ca65daf0e
+size 734

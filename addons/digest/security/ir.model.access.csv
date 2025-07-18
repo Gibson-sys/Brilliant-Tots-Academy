@@ -1,5 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_digest_digest_system,digest.digest.administration,model_digest_digest,base.group_erp_manager,1,1,1,1
-access_digest_digest_user,digest.digest.user,model_digest_digest,base.group_user,1,0,0,0
-access_digest_tip_system,digest.tip.administration,model_digest_tip,base.group_erp_manager,1,1,1,1
-access_digest_tip_user,digest.tip.user,model_digest_tip,base.group_user,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:27ddf317e771f6d910201ee397211ea37b9ef1f38c8147ab6bfa294d928b5d2d
+size 453

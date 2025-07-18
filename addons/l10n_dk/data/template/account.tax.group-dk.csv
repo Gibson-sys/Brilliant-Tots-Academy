@@ -1,2 +1,3 @@
-"id","country_id","name","tax_payable_account_id","tax_receivable_account_id"
-"default_tax_group","base.dk","Taxes","dk_coa_7840","dk_coa_6320"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8a2518dc8236f2d530140417bf098361982f83bea048da2486e44fdd0402679
+size 144

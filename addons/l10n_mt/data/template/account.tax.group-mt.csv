@@ -1,5 +1,3 @@
-"id","name","country_id","tax_receivable_account_id","tax_payable_account_id"
-"tax_group_mt_18","VAT 18%","base.mt","mt_2204","mt_3203"
-"tax_group_mt_7","VAT 7%","base.mt","mt_2204","mt_3203"
-"tax_group_mt_5","VAT 5%","base.mt","mt_2204","mt_3203"
-"tax_group_mt_0","VAT 0%","base.mt","mt_2204","mt_3203"
+version https://git-lfs.github.com/spec/v1
+oid sha256:976af4d651767cf2d35c4f6529cd0563eb4aec3e8e7bc31f7792c5811e452dac
+size 304

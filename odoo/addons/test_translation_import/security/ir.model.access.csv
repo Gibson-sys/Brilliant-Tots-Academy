@@ -1,3 +1,3 @@
-"id","name","model_id:id","group_id:id","perm_read","perm_write","perm_create","perm_unlink"
-"access_test_translation_import_model1","access.test.translation.import.model1","model_test_translation_import_model1",,0,0,0,0
-"access_test_translation_import_model2","access.test.translation.import.model2","model_test_translation_import_model2",,0,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:e87e98e26e751323f23cd1c9f89edc64c42661cf83f7fd6b420d8229288b0dfb
+size 349

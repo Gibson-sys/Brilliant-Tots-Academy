@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_hr_timesheet_attendance_report,access_hr_timesheet_attendance_report,model_hr_timesheet_attendance_report,hr_timesheet.group_hr_timesheet_user,1,0,0,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:edd87f87eff749d8074b37e0eba0acaa2e93929ee68fcc4b63030deeab4aa84a
+size 235

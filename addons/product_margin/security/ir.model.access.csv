@@ -1,2 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_product_margin,access.product.margin,model_product_margin,account.group_account_user,1,1,1,0
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e1c209ee774b48b9a01eb3293d7db7b02a734c974009b383bfc308a226f5b9b
+size 177

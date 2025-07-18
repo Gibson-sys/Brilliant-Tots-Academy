@@ -1,3 +1,3 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_web_editor_converter_test,access_web_editor_converter_test,model_web_editor_converter_test,base.group_system,1,1,1,1
-access_web_editor_converter_test_sub,access_web_editor_converter_test_sub,model_web_editor_converter_test_sub,base.group_system,1,1,1,1
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4778a5648cee7307a5dff87eb06024d4ae3639bab7f731d17050d21e435464b
+size 337
