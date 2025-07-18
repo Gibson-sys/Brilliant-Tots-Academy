@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+  <data>
+    <template id="student_portal_template_alt" name="Student Portal Page">
+      <t t-call="website.layout">
+        <t t-if="is_admin">
+          <div class="container">
+            <h2>Welcome, Admin</h2>
+            <table class="table table-bordered">
+              <thead>
+                <tr>
+                  <th>Name</th>
+                  <th>Student ID</th>
+                  <th>User</th>
+                </tr>
+              </thead>
+              <tbody>
+                <t t-foreach="students" t-as="student">
+                  <tr>
+                    <td><t t-esc="student.name"/></td>
+                    <td><t t-esc="student.student_id"/></td>
+                    <td><t t-esc="student.user_id.name"/></td>
+                  </tr>
+                </t>
+              </tbody>
+            </table>
+          </div>
+        </t>
+        <t t-else="">
+          <div class="container">
+            <h2>Student Portal</h2>
+            <t t-if="student">
+              <p><strong>Name:</strong> <t t-esc="student.name"/></p>
+              <p><strong>Student ID:</strong> <t t-esc="student.student_id"/></p>
+              <p><strong>User:</strong> <t t-esc="student.user_id.name"/></p>
+            </t>
+            <t t-else="">
+              <p>No student profile is linked to your account.</p>
+            </t>
+          </div>
+        </t>
+      </t>
+    </template>
+  </data>
+</odoo>

@@ -1,0 +1,50 @@
+<odoo>
+    <data>
+        <!-- Tree/List View -->
+        <record id="view_school_student_tree" model="ir.ui.view">
+            <field name="name">school.student.tree</field>
+            <field name="model">school.student</field>
+            <field name="arch" type="xml">
+                <list>
+                    <field name="name"/>
+                    <field name="age"/>
+                    <field name="gender"/>
+                </list>
+            </field>
+        </record>
+
+        <!-- Form View -->
+        <record id="view_school_student_form" model="ir.ui.view">
+            <field name="name">school.student.form</field>
+            <field name="model">school.student</field>
+            <field name="arch" type="xml">
+                <form>
+                    <sheet>
+                        <group>
+                            <field name="name"/>
+                            <field name="age"/>
+                            <field name="gender"/>
+                        </group>
+                    </sheet>
+                </form>
+            </field>
+        </record>
+
+        <!-- Action Window -->
+        <record id="action_school_student" model="ir.actions.act_window">
+            <field name="name">Students</field>
+            <field name="res_model">school.student</field>
+            <field name="view_mode">tree,form</field>
+            <field name="help" type="html">
+                <p class="o_view_nocontent_smiling_face">Create your first student</p>
+            </field>
+        </record>
+
+        <!-- Menus -->
+        <menuitem id="school_menu_root" name="School"/>
+
+        <menuitem id="school_menu_students" name="Students"
+                  parent="school_menu_root"
+                  action="action_school_student"/>
+    </data>
+</odoo>

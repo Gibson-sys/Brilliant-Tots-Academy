@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+  <data>
+    <template id="student_portal_template" name="Student Portal Page">
+      <t t-call="website.layout">
+        <div class="container my-5">
+          <!-- Admin notice -->
+          <t t-if="is_admin">
+            <div class="alert alert-warning">
+              You are logged in as an administrator.
+            </div>
+          </t>
+
+          <!-- Student Dashboard Section -->
+          <t t-if="student">
+            <div class="card bg-primary text-white p-4 mb-4 rounded shadow">
+              <h2>Welcome, <t t-esc="student.name"/>!</h2>
+              <p>ID: <t t-esc="student.student_id"/></p>
+            </div>
+          </t>
+
+          <t t-if="not student">
+            <div class="alert alert-danger">
+              No student profile found for this user.
+            </div>
+          </t>
+        </div>
+      </t>
+    </template>
+  </data>
+</odoo>
