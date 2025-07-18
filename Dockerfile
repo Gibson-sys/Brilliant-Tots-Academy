@@ -26,4 +26,6 @@ COPY . /app/
 
 EXPOSE 8069
 
-CMD python3 odoo-bin --db_host=$DB_HOST --db_port=$DB_PORT --db_user=$DB_USER --db_password=$DB_PASSWORD --addons-path=addons,odoo/addons --log-level=info -c /app/odoo.conf
+# ✅ Shell form allows environment variables to expand
+CMD bash -c "python3 odoo-bin --db_host=$DB_HOST --db_port=$DB_PORT --db_user=$DB_USER --db_password=$DB_PASSWORD --addons-path=addons,odoo/addons --log-level=info -c /app/odoo.conf"
+
